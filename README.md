@@ -10,6 +10,21 @@
     <a href="https://packagist.org/packages/laravel/framework" target="_blank">
         <img src="https://img.shields.io/packagist/v/laravel/framework?label=laravel&style=flat-square"
             alt="Laravel Version">
+    </a>
+
+    <!-- php version 8 -->
+    <a href="https://php.net" target="_blank">
+        <img src="https://img.shields.io/packagist/php-v/laravel/laravel?style=flat-square"
+            alt="PHP Version">
+             </a>
+
+    <!-- composer -->
+    <a href="https://getcomposer.org" target="_blank">
+        <img src="https://img.shields.io/badge/composer-%3E%3D%201.10.0-blue?style=flat-square"
+            alt="Composer Version">
+             </a>
+
+
 </p>
 
 ## About This Project
