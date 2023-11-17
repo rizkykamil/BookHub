@@ -6,9 +6,11 @@
     <a href="https://php.net" target="_blank">
         <img src="https://img.shields.io/packagist/php-v/laravel/laravel?style=flat-square" alt="PHP Version">
     </a>
+    <!-- composer version 2.4.4 -->
     <a href="https://getcomposer.org" target="_blank">
-        <img src="https://img.shields.io/badge/composer-%3E%3D%201.10.0-blue?style=flat-square" alt="Composer Version">
+        <img src="https://img.shields.io/badge/composer-v2.1.3-blue?style=flat-square" alt="Composer Version">
     </a>
+
 </div>
 ## About This Project
 BookHub adalah aplikasi manajemen buku tingkat lanjut yang dirancang untuk menyederhanakan pengorganisasian dan
