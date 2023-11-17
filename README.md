@@ -1,28 +1,15 @@
-<p align="center">
-    <a href="https://laravel.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg"
-            width="400" alt="Laravel Logo">
-    </a>
-</p>
-
-<p align="center">
+<div align="center">
     <a href="https://packagist.org/packages/laravel/framework" target="_blank">
         <img src="https://img.shields.io/packagist/v/laravel/framework?label=laravel&style=flat-square"
             alt="Laravel Version">
     </a>
-</p>
-
-<p align="center">
     <a href="https://php.net" target="_blank">
         <img src="https://img.shields.io/packagist/php-v/laravel/laravel?style=flat-square" alt="PHP Version">
     </a>
-</p>
-
-<p align="center">
-  <a href="https://getcomposer.org" target="_blank">
+    <a href="https://getcomposer.org" target="_blank">
         <img src="https://img.shields.io/badge/composer-%3E%3D%201.10.0-blue?style=flat-square" alt="Composer Version">
     </a>
-</p>
+</div>
 ## About This Project
 BookHub adalah aplikasi manajemen buku tingkat lanjut yang dirancang untuk menyederhanakan pengorganisasian dan
 pelacakan koleksi buku Anda. Baik Anda seorang yang rajin membaca, kolektor buku, atau mengelola perpustakaan, BookHub
