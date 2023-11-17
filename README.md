@@ -151,4 +151,5 @@ Explore these workflows to efficiently manage your book collection and enhance y
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
 Sebenernya izin aja :)
