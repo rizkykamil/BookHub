@@ -13,25 +13,60 @@
 </p>
 
 ## About This Project
-[Include a brief overview of the project. What problem does it solve? What is its purpose?]
+BookHub adalah aplikasi manajemen buku tingkat lanjut yang dirancang untuk menyederhanakan pengorganisasian dan
+pelacakan koleksi buku Anda. Baik Anda seorang yang rajin membaca, kolektor buku, atau mengelola perpustakaan, BookHub
+memberikan solusi komprehensif untuk membuat katalog, mencari, dan berinteraksi dengan buku Anda.
 
 
 ## Learning Laravel
+1. **CRUD**
+- create data Buku
+- Read Buku
+- Update Buku
+- soft delete Buku
+- History
+2. **Searching (js)**
+1. Filter berdasarkan genre buku
+2. Filter berdasarkan penulis buku
+3. Pencarian buku berdasarkan judul
+3. **Fitur Lainnya**
+1. Role-Based Access Control ([RBAC](https://github.com/itstructure/laravel-rbac))
+2. Pencocokan Otomatis Penulis dan Genre
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all
-modern web application frameworks, making it a breeze to get started with the framework.
+## Install Project
+1. Clone Project
+```bash
+git clone
+```
+2. Install Composer
+```bash
+composer install
+```
+3. Install NPM
+```bash
+npm install
+```
+4. Copy .env.example to .env
+```bash
+cp .env.example .env
+```
+5. Generate Key
+```bash
+php artisan key:generate
+```
+6. Migrate Database
+```bash
+php artisan migrate
+```
+7. Seed Database
+```bash
+php artisan db:seed
+```
+8. Run Project
+```bash
+php artisan serve
+```
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a
-modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video
-tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging
-into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in
-becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
 
 ### Premium Partners
 
