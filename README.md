@@ -1,3 +1,10 @@
+<p align="center">
+    <a href="https://laravel.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg"
+            width="400" alt="Laravel Logo">
+    </a>
+</p>
+
 <div align="center">
     <a href="https://packagist.org/packages/laravel/framework" target="_blank">
         <img src="https://img.shields.io/packagist/v/laravel/framework?label=laravel&style=flat-square"
@@ -10,8 +17,8 @@
     <a href="https://getcomposer.org" target="_blank">
         <img src="https://img.shields.io/badge/composer-v2.1.3-blue?style=flat-square" alt="Composer Version">
     </a>
-
 </div>
+
 ## About This Project
 BookHub adalah aplikasi manajemen buku tingkat lanjut yang dirancang untuk menyederhanakan pengorganisasian dan
 pelacakan koleksi buku Anda. Baik Anda seorang yang rajin membaca, kolektor buku, atau mengelola perpustakaan, BookHub
@@ -70,79 +77,78 @@ php artisan serve
 
 ## How to Use BookHub
 
-Welcome to BookHub, your comprehensive book management application. This guide will walk you through common workflows
-and scenarios to help you make the most out of BookHub.
+Welcome to BookHub, your comprehensive book management application. This guide will walk you through common workflows and scenarios to help you make the most out of BookHub.
 
 ### 1. **User Registration and Authentication:**
-- **Scenario:** New users need to create an account and existing users need to log in.
-- **Workflow:**
-1. Visit the BookHub website.
-2. Click on the "Sign Up" button to create a new account.
-3. Fill in the required registration details.
-4. Verify your email address if required.
-5. Log in using your credentials.
+   - **Scenario:** New users need to create an account and existing users need to log in.
+   - **Workflow:**
+      1. Visit the BookHub website.
+      2. Click on the "Sign Up" button to create a new account.
+      3. Fill in the required registration details.
+      4. Verify your email address if required.
+      5. Log in using your credentials.
 
 ### 2. **Adding a New Book:**
-- **Scenario:** Users want to add a new book to their collection.
-- **Workflow:**
-1. After logging in, navigate to the dashboard.
-2. Click on the "Add Book" button.
-3. Fill in the book details, such as title, author, genre, and other relevant information.
-4. Upload a book cover image if desired.
-5. Click "Save" to add the book to your collection.
+   - **Scenario:** Users want to add a new book to their collection.
+   - **Workflow:**
+      1. After logging in, navigate to the dashboard.
+      2. Click on the "Add Book" button.
+      3. Fill in the book details, such as title, author, genre, and other relevant information.
+      4. Upload a book cover image if desired.
+      5. Click "Save" to add the book to your collection.
 
 ### 3. **Updating Book Information:**
-- **Scenario:** Users need to edit or update information about a book.
-- **Workflow:**
-1. Navigate to the book details page.
-2. Click on the "Edit" button.
-3. Modify the necessary information.
-4. Click "Save" to update the book details.
+   - **Scenario:** Users need to edit or update information about a book.
+   - **Workflow:**
+      1. Navigate to the book details page.
+      2. Click on the "Edit" button.
+      3. Modify the necessary information.
+      4. Click "Save" to update the book details.
 
 ### 4. **Searching for Books:**
-- **Scenario:** Users want to find specific books within their collection.
-- **Workflow:**
-1. Use the search bar to enter keywords like title, author, or genre.
-2. Apply additional filters, such as genre or author, for more refined results.
-3. Review the search results to find the desired book.
+   - **Scenario:** Users want to find specific books within their collection.
+   - **Workflow:**
+      1. Use the search bar to enter keywords like title, author, or genre.
+      2. Apply additional filters, such as genre or author, for more refined results.
+      3. Review the search results to find the desired book.
 
 ### 5. **Viewing Book History:**
-- **Scenario:** Users want to see the history of changes made to a particular book.
-- **Workflow:**
-1. Navigate to the book details page.
-2. Look for the "History" section.
-3. View a log of changes, including timestamps and the user who made the modifications.
+   - **Scenario:** Users want to see the history of changes made to a particular book.
+   - **Workflow:**
+      1. Navigate to the book details page.
+      2. Look for the "History" section.
+      3. View a log of changes, including timestamps and the user who made the modifications.
 
 ### 6. **Managing Loans and Returns:**
-- **Scenario:** Users want to keep track of book loans and returns.
-- **Workflow:**
-1. Navigate to the book details page.
-2. Use the "Loan" or "Return" button to manage the book's status.
-3. Set configurable time limits for loans.
+   - **Scenario:** Users want to keep track of book loans and returns.
+   - **Workflow:**
+      1. Navigate to the book details page.
+      2. Use the "Loan" or "Return" button to manage the book's status.
+      3. Set configurable time limits for loans.
 
 ### 7. **Dashboard Analytics:**
-- **Scenario:** Users want insights into their reading habits and collection.
-- **Workflow:**
-1. Visit the dashboard to access visual analytics.
-2. Explore charts and graphs that showcase application usage, book popularity, and reading trends.
+   - **Scenario:** Users want insights into their reading habits and collection.
+   - **Workflow:**
+      1. Visit the dashboard to access visual analytics.
+      2. Explore charts and graphs that showcase application usage, book popularity, and reading trends.
 
 ### 8. **Notification System:**
-- **Scenario:** Users want to stay informed about relevant activities.
-- **Workflow:**
-1. Receive notifications for activities like book loans, returns, or changes to favorite books.
-2. Adjust notification preferences in the user settings.
+   - **Scenario:** Users want to stay informed about relevant activities.
+   - **Workflow:**
+      1. Receive notifications for activities like book loans, returns, or changes to favorite books.
+      2. Adjust notification preferences in the user settings.
 
 ### 9. **Role-Based Access Control:**
-- **Scenario:** Administrators need to manage user roles and permissions.
-- **Workflow:**
-1. Access the admin dashboard.
-2. Assign roles and permissions to users based on their responsibilities.
+   - **Scenario:** Administrators need to manage user roles and permissions.
+   - **Workflow:**
+      1. Access the admin dashboard.
+      2. Assign roles and permissions to users based on their responsibilities.
 
 ### 10. **Integration with Payment Gateway:**
-- **Scenario:** Users want to make online payments for book sales or premium subscriptions.
-- **Workflow:**
-1. Access the payment section.
-2. Follow the prompts to complete secure online transactions.
+   - **Scenario:** Users want to make online payments for book sales or premium subscriptions.
+   - **Workflow:**
+      1. Access the payment section.
+      2. Follow the prompts to complete secure online transactions.
 
 Explore these workflows to efficiently manage your book collection and enhance your reading experience with BookHub.
 
